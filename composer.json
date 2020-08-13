@@ -1,0 +1,15 @@
+{
+    "name": "amacevedo/paysera",
+    "description": "exam",
+    "type": "project",
+	"autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
